@@ -65,7 +65,7 @@ function App() {
       <section class="page-section" id="services">
         <div class="container">
           <div class="text-center">
-            <h2 class="section-heading text-uppercase">Services</h2>
+            <h2 class="section-heading text-uppercase">개인 소개</h2>
             <h3 class="section-subheading text-muted">
               Lorem ipsum dolor sit amet consectetur.
             </h3>
@@ -76,7 +76,7 @@ function App() {
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                 <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
               </span>
-              <h4 class="my-3">E-Commerce</h4>
+              <h4 class="my-3">출신 배경</h4>
               <p class="text-muted">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
                 maxime quam architecto quo inventore harum ex magni, dicta
@@ -88,7 +88,7 @@ function App() {
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                 <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
               </span>
-              <h4 class="my-3">Responsive Design</h4>
+              <h4 class="my-3">개발자 준비 이전</h4>
               <p class="text-muted">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
                 maxime quam architecto quo inventore harum ex magni, dicta
@@ -100,7 +100,7 @@ function App() {
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                 <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
               </span>
-              <h4 class="my-3">Web Security</h4>
+              <h4 class="my-3">현재 개발 능력</h4>
               <p class="text-muted">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
                 maxime quam architecto quo inventore harum ex magni, dicta
