@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PoPor/static/css/main.28453d5a.css",
-    "main.js": "/PoPor/static/js/main.0757470d.js",
+    "main.js": "/PoPor/static/js/main.d862ae72.js",
     "static/media/map-image.png": "/PoPor/static/media/map-image.3cd6dd9808474f6ed762.png",
     "static/media/header-bg.jpg": "/PoPor/static/media/header-bg.050c4ecaaa8ce224a5ca.jpg",
     "index.html": "/PoPor/index.html",
     "main.28453d5a.css.map": "/PoPor/static/css/main.28453d5a.css.map",
-    "main.0757470d.js.map": "/PoPor/static/js/main.0757470d.js.map"
+    "main.d862ae72.js.map": "/PoPor/static/js/main.d862ae72.js.map"
   },
   "entrypoints": [
     "static/css/main.28453d5a.css",
-    "static/js/main.0757470d.js"
+    "static/js/main.d862ae72.js"
   ]
 }
