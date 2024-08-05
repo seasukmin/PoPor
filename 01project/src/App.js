@@ -133,7 +133,7 @@ function App() {
                   </div>
                   <img
                     class="img-fluid"
-                    src="assets/img/portfolio/1.jpg"
+                    src="assets/img/the-keyboard-2350726_1280.jpg"
                     alt="..."
                   />
                 </a>
