@@ -1,0 +1,15 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 100px;
+}
+.Nav {
+  display: flex;
+  gap: 20px;
+}
+.Nav li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
